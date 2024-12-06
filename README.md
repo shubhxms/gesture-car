@@ -20,8 +20,8 @@ https://github.com/user-attachments/assets/1cb01c62-5ef6-41f1-9199-5d7717a43cb2
 
 
 ## Group Members:
-- Aarya Parekh
+- [Aarya Parekh](https://github.com/frowNYfaceUnknown)
 - Preksha Morbia
-- Shubham Shah (me)
+- [Shubham Shah](https://shubhxms.github.io) (me)
 
 This repository is only an archive; as such the commit history does not accurately represent the contributions of the members.
