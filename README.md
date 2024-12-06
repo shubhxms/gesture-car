@@ -11,6 +11,8 @@ The user has a glove which has a MPU6050 (accelerometer + gyrosope) attached on 
 
 The esp8266 and the pi communicate using the [MQTT Protocol](https://mqtt.org/) - the pi simultaenously acts as both a broker and a subscriber client. The esp8266 publishes translated actions to the broker which is then subscribed to by the pi.
 
+There is also a camera attached to the pi which streams video through an open port.
+
 
 ## Demo
 https://github.com/user-attachments/assets/1cb01c62-5ef6-41f1-9199-5d7717a43cb2
